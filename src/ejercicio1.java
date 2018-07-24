@@ -1,12 +1,10 @@
-package ejercicio1;
-
 import java.time.Year;
 import java.util.Scanner;
 
-public class principal {
+public class ejercicio1 {
 
 	public static void main(String[] args) {
-	
+		
 		Scanner input = new Scanner(System.in);
 		
 		System.out.print("Ingrese nombre: ");
